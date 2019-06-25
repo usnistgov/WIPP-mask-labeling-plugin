@@ -6,5 +6,5 @@ package gov.nist.itl.ssd.wipp.masklabelingplugin.utils;
  */
 public enum Connectedness {
     FOUR_CONNECTED,
-    HEIGHT_CONNECTED
+    EIGHT_CONNECTED
 }

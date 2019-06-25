@@ -134,7 +134,7 @@ public class MaskLabeling {
 		case FOUR_CONNECTED:
 			ConnectedComponents.bwlabel4(label, width, height);
 			break;
-		case HEIGHT_CONNECTED:
+		case EIGHT_CONNECTED:
 			ConnectedComponents.bwlabel8(label, width, height);
 			break;
 		default:
