@@ -2,10 +2,13 @@
 	"name": "WIPP Mask labeling plugin",
 	"version": "0.0.2",
 	"title": "WIPP Mask labeling",
+	"author": "Mohamed Ouladi & Michael Majurski",
+    "institution": "National Institute of Standards and Technology",
+    "repository": "https://github.com/usnistgov/WIPP-mask-labeling-plugin",
+    "website": null,
+    "citation": null,
 	"description": "Mask labeling using NIST connected components algorithm",
-    "creator": "National Institute of Standards and Technology",
 	"containerId": "wipp/wipp-mask-labeling-plugin:0.0.2",
-
 	"inputs": [
 		{
 			"name": "inputImages",
