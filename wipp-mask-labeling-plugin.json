@@ -1,10 +1,10 @@
 {
 	"name": "WIPP Mask labeling plugin",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"title": "WIPP Mask labeling",
 	"description": "Mask labeling using NIST connected components algorithm",
     "creator": "National Institute of Standards and Technology",
-	"containerId": "wipp/wipp-mask-labeling-plugin:0.0.1",
+	"containerId": "wipp/wipp-mask-labeling-plugin:0.0.2",
 
 	"inputs": [
 		{
